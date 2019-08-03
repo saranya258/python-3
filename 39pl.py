@@ -10,9 +10,9 @@ def isPowerOfTwo(n):
 # Driver code 
 i=int(input())
 if(isPowerOfTwo(i)): 
-	print('Yes') 
+	print('yes') 
 else: 
-	print('No') 
+	print('no') 
  
 
  
